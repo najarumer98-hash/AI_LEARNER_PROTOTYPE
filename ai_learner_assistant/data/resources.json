@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Python Basics",
+    "subject": "Python",
+    "topic": "Fundamentals",
+    "description": "Comprehensive guide to Python fundamentals including variables, data types, control structures, and basic syntax",
+    "url": "https://docs.python.org/3/tutorial/",
+    "difficulty": "Beginner",
+    "type": "Documentation"
+  },
+  {
+    "id": 2,
+    "title": "Python OOP",
+    "subject": "Python",
+    "topic": "Object-Oriented Programming",
+    "description": "Complete tutorial on Python OOP concepts: classes, objects, inheritance, polymorphism, and encapsulation",
+    "url": "https://realpython.com/python3-object-oriented-programming/",
+    "difficulty": "Intermediate",
+    "type": "Tutorial"
+  },
+  {
+    "id": 3,
+    "title": "DBMS Normalization",
+    "subject": "DBMS",
+    "topic": "Database Design",
+    "description": "Detailed explanation of database normalization forms (1NF, 2NF, 3NF, BCNF) with practical examples",
+    "url": "https://www.geeksforgeeks.org/database-normalization-normal-forms/",
+    "difficulty": "Intermediate",
+    "type": "Article"
+  },
+  {
+    "id": 4,
+    "title": "SQL Fundamentals",
+    "subject": "DBMS",
+    "topic": "SQL",
+    "description": "Complete guide to SQL queries, joins, subqueries, and database operations",
+    "url": "https://www.w3schools.com/sql/",
+    "difficulty": "Beginner",
+    "type": "Tutorial"
+  },
+  {
+    "id": 5,
+    "title": "Data Structures in Python",
+    "subject": "Data Structures",
+    "topic": "Implementation",
+    "description": "Implementation of common data structures: arrays, linked lists, stacks, queues, trees, and graphs in Python",
+    "url": "https://www.geeksforgeeks.org/python-data-structures/",
+    "difficulty": "Intermediate",
+    "type": "Tutorial"
+  },
+  {
+    "id": 6,
+    "title": "Machine Learning Basics",
+    "subject": "Machine Learning",
+    "topic": "Introduction",
+    "description": "Introduction to machine learning concepts, algorithms, and practical applications using Python",
+    "url": "https://scikit-learn.org/stable/tutorial/index.html",
+    "difficulty": "Advanced",
+    "type": "Documentation"
+  },
+  {
+    "id": 7,
+    "title": "AI Fundamentals",
+    "subject": "Artificial Intelligence",
+    "topic": "Core Concepts",
+    "description": "Overview of AI concepts including search algorithms, knowledge representation, and reasoning",
+    "url": "https://www.coursera.org/learn/introduction-to-ai",
+    "difficulty": "Intermediate",
+    "type": "Course"
+  },
+  {
+    "id": 8,
+    "title": "NumPy Tutorial",
+    "subject": "Python",
+    "topic": "Data Science",
+    "description": "Complete guide to NumPy for numerical computing and array operations in Python",
+    "url": "https://numpy.org/doc/stable/user/quickstart.html",
+    "difficulty": "Intermediate",
+    "type": "Documentation"
+  },
+  {
+    "id": 9,
+    "title": "Pandas for Data Analysis",
+    "subject": "Python",
+    "topic": "Data Science",
+    "description": "Learn pandas library for data manipulation, analysis, and visualization",
+    "url": "https://pandas.pydata.org/docs/user_guide/index.html",
+    "difficulty": "Intermediate",
+    "type": "Documentation"
+  },
+  {
+    "id": 10,
+    "title": "Operating Systems Concepts",
+    "subject": "Operating Systems",
+    "topic": "Core Concepts",
+    "description": "Comprehensive coverage of OS concepts: processes, threads, memory management, file systems",
+    "url": "https://www.geeksforgeeks.org/operating-systems/",
+    "difficulty": "Intermediate",
+    "type": "Article"
+  },
+  {
+    "id": 11,
+    "title": "Computer Networks Basics",
+    "subject": "Computer Networks",
+    "topic": "Networking Fundamentals",
+    "description": "Introduction to networking: OSI model, TCP/IP, protocols, routing, and network security",
+    "url": "https://www.geeksforgeeks.org/computer-network-tutorials/",
+    "difficulty": "Intermediate",
+    "type": "Tutorial"
+  },
+  {
+    "id": 12,
+    "title": "Algorithms and Complexity",
+    "subject": "Data Structures",
+    "topic": "Algorithms",
+    "description": "Study of algorithm design, analysis, and complexity including sorting, searching, and graph algorithms",
+    "url": "https://www.khanacademy.org/computing/computer-science/algorithms",
+    "difficulty": "Advanced",
+    "type": "Course"
+  },
+  {
+    "id": 13,
+    "title": "Deep Learning with Python",
+    "subject": "Machine Learning",
+    "topic": "Neural Networks",
+    "description": "Introduction to deep learning and neural networks using TensorFlow and Keras",
+    "url": "https://www.tensorflow.org/tutorials",
+    "difficulty": "Advanced",
+    "type": "Tutorial"
+  },
+  {
+    "id": 14,
+    "title": "Database Design Principles",
+    "subject": "DBMS",
+    "topic": "Design",
+    "description": "Best practices for database design: ER modeling, schema design, and optimization techniques",
+    "url": "https://www.tutorialspoint.com/dbms/dbms_data_models.htm",
+    "difficulty": "Intermediate",
+    "type": "Tutorial"
+  },
+  {
+    "id": 15,
+    "title": "Python Data Structures",
+    "subject": "Python",
+    "topic": "Built-in Structures",
+    "description": "Master Python's built-in data structures: lists, tuples, dictionaries, sets, and their operations",
+    "url": "https://docs.python.org/3/tutorial/datastructures.html",
+    "difficulty": "Beginner",
+    "type": "Documentation"
+  },
+  {
+    "id": 16,
+    "title": "Linear Algebra for ML",
+    "subject": "Mathematics",
+    "topic": "Linear Algebra",
+    "description": "Essential linear algebra concepts for machine learning: vectors, matrices, eigenvalues",
+    "url": "https://www.khanacademy.org/math/linear-algebra",
+    "difficulty": "Intermediate",
+    "type": "Course"
+  },
+  {
+    "id": 17,
+    "title": "Probability and Statistics",
+    "subject": "Mathematics",
+    "topic": "Statistics",
+    "description": "Fundamental probability and statistics concepts for data science and machine learning",
+    "url": "https://www.khanacademy.org/math/statistics-probability",
+    "difficulty": "Intermediate",
+    "type": "Course"
+  },
+  {
+    "id": 18,
+    "title": "Git and Version Control",
+    "subject": "General",
+    "topic": "Development Tools",
+    "description": "Learn Git for version control: commits, branches, merging, and collaboration workflows",
+    "url": "https://git-scm.com/book/en/v2",
+    "difficulty": "Beginner",
+    "type": "Documentation"
+  },
+  {
+    "id": 19,
+    "title": "Software Engineering Principles",
+    "subject": "General",
+    "topic": "Software Development",
+    "description": "Core software engineering principles: SOLID, design patterns, testing, and best practices",
+    "url": "https://www.geeksforgeeks.org/software-engineering/",
+    "difficulty": "Intermediate",
+    "type": "Article"
+  },
+  {
+    "id": 20,
+    "title": "Natural Language Processing",
+    "subject": "Artificial Intelligence",
+    "topic": "NLP",
+    "description": "Introduction to NLP: text processing, tokenization, sentiment analysis, and language models",
+    "url": "https://www.nltk.org/book/",
+    "difficulty": "Advanced",
+    "type": "Book"
+  }
+]
